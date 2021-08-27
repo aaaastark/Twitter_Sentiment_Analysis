@@ -8,3 +8,6 @@
 
 **Project Pipeline**
 * Import Necessary Dependencies, Necessary Setting, Read and Load the Dataset, Pre-Process dataset, Split train and test, Word2Vec, Tokenize Text, Label Encoder, Embedding layer, Build Model, Compile model, Callbacks, Train, Evaluate, Predict, Confusion Matrix, Classification Report, Accuracy Score and Save model.
+
+**Python Libraries and Dataset**
+* Sklearn, Keras, Pandas, Gensim, Seaborn, Scipy, NLTK, Matplotlib, Numpy, Pickle.  Sentiment140 Dataset (.csv) which consists of 1,600,000 tweets 
